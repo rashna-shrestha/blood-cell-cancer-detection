@@ -1,0 +1,1 @@
+deploy>> free tier pl  >> reseaech fre >> ross verify  >> tyo ebiste >> feployment guide >> github alrady pse repo

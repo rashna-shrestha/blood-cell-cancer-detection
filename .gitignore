@@ -1,0 +1,19 @@
+# the 299x299 and blanked copies, plus the segmentation images and masks.
+# 464 MB and all of it is rebuilt by the notebook from the original photos, so it is not worth pushing
+data/
+
+# python leftovers
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# output written by predict.py / app.py
+*_overlay.png
+
+# editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

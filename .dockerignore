@@ -1,0 +1,4 @@
+#keeps these out of the build context, so "docker build" does not upload them to docker first
+data/
+__pycache__/
+*.ipynb
